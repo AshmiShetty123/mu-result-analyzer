@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+* { box-sizing: border-box; }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 30px;
+  background: #f4f6f9;
+}
+h2 { text-align: center; margin-bottom: 30px; color: #2c3e50; }
+h3 { color: #2c3e50; margin-top: 40px; }
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+.btn {
+  background: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn:hover { background: #2980b9; }
+.btn-red   { background: #e74c3c; }
+.btn-red:hover { background: #c0392b; }
+.btn-green { background: #2ecc71; }
+.btn-green:hover { background: #27ae60; }
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 15px;
+  margin-bottom: 30px;
+}
+.stat-box {
+  background: white;
+  padding: 20px 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  text-align: center;
+  font-size: 15px;
+  color: #555;
+}
+.stat-box b {
+  display: block;
+  font-size: 26px;
+  margin-top: 6px;
+  color: #2c3e50;
+}
+
+.chart-container {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 20px;
+  margin-bottom: 30px;
+  position: relative;
+  height: 380px;
+}
+.chart-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.table-container {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  background: white;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+table { border-collapse: collapse; width: 100%; background: white; }
+table th {
+  background: #2c3e50;
+  color: white;
+  padding: 10px;
+  text-align: left;
+  position: sticky;
+  top: 0;
+}
+table td { padding: 8px 10px; border-bottom: 1px solid #eee; }
+table tr:hover { background: #f9f9f9; }
+</style>
+</head>
+<body>
+
+<h2>📊 Dashboard</h2>
+
+<div class="top-bar">
+  <div>
+    <a href="/statistics" class="btn btn-green">View Statistics</a>
+    <a href="/download"   class="btn">Download CSV</a>
+    <a href="/upload"     class="btn">Upload New PDF</a>
+    <a href="/logout"     class="btn btn-red">Logout</a>
+  </div>
+</div>
+
+<!-- ── STAT BOXES ── -->
+<div class="stats">
+  <div class="stat-box">Total Students<b>{{ total }}</b></div>
+  <div class="stat-box">Male Students<b>{{ male_count }}</b></div>
+  <div class="stat-box">Female Students<b>{{ female_count }}</b></div>
+  <div class="stat-box">Passed<b>{{ pass_count }}</b></div>
+  <div class="stat-box">Failed<b>{{ failed }}</b></div>
+  <div class="stat-box">Above 9 SGPI<b>{{ above_9 }}</b></div>
+  <div class="stat-box">Above 8 SGPI<b>{{ above_8 }}</b></div>
+</div>
+
+
+
+<!-- ── COLLEGE TABLE ── -->
+<h3>College Wise Result Summary</h3>
+<div class="table-container">
+  {{ college_table | safe }}
+</div>
+
+<!-- ── PREVIEW TABLE ── -->
+<h3>Student Preview (first 20)</h3>
+<div class="table-container">
+  {{ table | safe }}
+</div>
+
+
+</body>
+</html>

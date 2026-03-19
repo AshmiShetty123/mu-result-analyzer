@@ -1,0 +1,515 @@
+Seat No,Name,Gender,College Code,College Name,Semester,CGPA,Result
+1342208,CHAUDHARI AMMAR ABDUL SABOOR,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,8.5,PASS
+1342212,JAISWAR AAYUSH MAHAVIR,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,0.0,FAIL
+1342237,SARDESAI ROHIT NAMDEO,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,0.0,FAIL
+1342242,SHAIKH ABRAR AHMAD BAHAUDDIN,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,7.84,PASS
+1342245,SHAIKH MOHAMMAD KAISH MOHAMMAD JAMIL,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,0.0,FAIL
+1342246,SHAIKH MOHAMMAD MUDASSIR JALALUDDIN,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,7.57,PASS
+1342249,SHAIKH MOHD JAFAR SHABUDDIN,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,0.0,FAIL
+1342251,SHAIKH MOHD SAAD SALIM,MALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,6.25,PASS
+1342254,SHAIKH RAFIYA ASIF IQBAL,FEMALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,0.0,FAIL
+1342255,SHAIKH SABANA KHATOON PHOOL MOHAMMED,FEMALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,8.91,PASS
+1342258,YADAV JANVI VIJAY,FEMALE,0010,Anjuman I Islams M H Saboo Siddik College of Engineering,II,7.14,PASS
+1342346,MAHADIK PRANJALI RAJESH,FEMALE,0124,Mahatma Gandhi Missions College of Engineering and Technology,II,0.0,FAIL
+1342578,ALIBADE SHRADDHA GAJANAND,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.09,PASS
+1342579,AMBURE ADITYA PANDURANG,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.86,PASS
+1342580,ANISHAA KRISHNAKUMAR,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342581,AVHAD KARTIK UMESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.09,PASS
+1342582,BAGAYATKAR AMEY HEMANT,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342583,BAGUL HARSH SANTOSH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.25,PASS
+1342584,BAIRAGI ADITYA NARESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.23,PASS
+1342585,BANDEKAR MAYURI PRAKASH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342588,BELDAR UDAY SHIVKUMAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342589,BHANGALE SHIVAM VINOD,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342594,BORATE ATHARV DEEPAK,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.84,PASS
+1342595,BORUDE ADITYA ASHOK,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342596,CHAVAN RIDDHI CHANDRASHEKHAR,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.93,PASS
+1342597,CHAVAN SHALANG DEEPAK,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.73,PASS
+1342598,CHIKANE SOHAM SUBHASH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.25,PASS
+1342599,DALVI RITESH VILASRAO,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342600,DANI TRUSHNA DEEPAK,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342601,DARGE KRUPA SHRIDHAR,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.98,PASS
+1342602,DAS UMESH KUMAR SANTOSH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.3,PASS
+1342603,DHANDRE PRANITA VINOD,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342604,DHAPOLA RACHIT SINGH RAVINDRA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.91,PASS
+1342605,DONGARE NEHA UTTAM,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342606,FONDE PRANAY PRAKASH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.41,PASS
+1342607,GAIKWAD AVIRAJ SHANKAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.66,PASS
+1342608,GAIKWAD PARTH VISHWANATH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342609,GALANDE UNMANI SACHIN,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342610,GANGAN SHRAVAN SANTOSH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342611,GAUD ATUL SURESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342612,GAWADE PARTH RAJAN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.89,PASS
+1342613,GHEVDE KALYANI VISHNU,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.55,PASS
+1342616,GOWDA KIRTANA SANTOSH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.86,PASS
+1342617,GUPTA ROMIT MAHESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.98,PASS
+1342618,HAMDULAY IBRAHIM ILYAS,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342619,HELWANDE SWAMINI SUBHASH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.77,PASS
+1342620,JADGE SHANTANU SADASHIV,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.27,PASS
+1342621,JADHAV SWARAJ PRAVIN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342622,JAGDALE SAI VIJAY,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.52,PASS
+1342623,JALDA SHRAVAN DYANESHWAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.2,PASS
+1342624,JHA SAKSHI SANJAY,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,9.05,PASS
+1342625,KADAM RITESH TUKARAM,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.45,PASS
+1342626,KADAM SAHIL NAMDEV,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342627,KALLURI VIVEK SURESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.91,PASS
+1342628,KAMBLE PRANAV RAJESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342629,KAMBLE YUVRAJ NARAYAN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342630,KANOLKAR SHARVARI SURYAKANT,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.55,PASS
+1342631,KARIYA KRUTIKA NILESH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.3,PASS
+1342632,KHAN ABDUL KARIM,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.0,PASS
+1342633,KHANJODE NILESH VASANT,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342634,KHEDEKAR SAHIL SACHIN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342635,KHONDGE SUJAL RAMCHANDRA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342636,KHOT DHRUVA EKLAVYA,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.98,PASS
+1342637,KHUTWAD HARSHAL DINESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342638,KONKA LOKESH SHANKAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.89,PASS
+1342639,KURADE ADWAIT MAHESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342640,LATE DAYESH DIGAMBAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.25,PASS
+1342641,MACHIWALA ABDUL QADIR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342642,MAHAPURE KARAN SANTOSH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.14,PASS
+1342643,MAURYA RANI MAHENDRA,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342644,MISHRA RITIK AKHILESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.48,PASS
+1342645,MODKALE BHAVESH GANESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342646,MORE DRUSHTI DILIP,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.2,PASS
+1342647,MORE LAVANYA SUDHIR,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.23,PASS
+1342648,MORE NINAD SURENDRA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342649,MULLA OWAIS SALIM,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.48,PASS
+1342650,NAIKAR CHAITANYA BHUSHAN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342651,NANDESHWAR KSHITIJ RAJHANS,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342652,NAVADKAR SAIRAJ CHANDRAKANT,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.39,PASS
+1342653,NEMADE KALIKA HARSHAL,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342654,NIKAM JANVI RAMCHANDRA,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.25,PASS
+1342655,NIKHARE AYUSHRI SHIVSHANKAR,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342656,NIKUMBH HARSH KAMLESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342657,PAL KUNAL RAJENDRAKUMAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.27,PASS
+1342658,PAL SANKESH TEJPRATAP,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.05,PASS
+1342659,PALIWAL BHUPESH INDERLAL,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.41,PASS
+1342660,PANDEY AAYUSH SANTOSH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342661,PANDEY ANANYA AKHILESH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342662,PARADHI HARSHAL SADU,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.61,PASS
+1342663,PATHAK PARTH ARUN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.34,PASS
+1342664,PATIL ANUSHKA ANANDRAO,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.75,PASS
+1342665,PATIL VAISHNAVI VIJAY,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.34,PASS
+1342666,PATIL VARSHA DASHARATH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.61,PASS
+1342667,PAVALE RASIKA RAVINDRA,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.95,PASS
+1342668,PAWAR SHRADDHA MAHENDRA,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.39,PASS
+1342669,PAWAR VRUNDA SUNIL,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,9.27,PASS
+1342670,QADRI SAIMA ABDUL REHMAN,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.0,PASS
+1342671,QURESHI SHIFA TAHIR,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.23,PASS
+1342672,RATHOD KARAN SANJAY,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.14,PASS
+1342673,RAUT NIKHIL KHEMJI,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342674,REDEKAR SANJAY SOHAM,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342675,SAKHARKAR REHAN IRFAN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342676,SAKPAL SAIRAJ BALARAM,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342677,SANGALE SWAYAM SANJAY,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342678,SAWANT MIHIR SUDHAKAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,9.14,PASS
+1342679,SAWANT SANIKA SUHAS,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.7,PASS
+1342680,SAYYED MOHD SAAD AHMED,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342681,SHAIKH FARIA AKBARALI,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342682,SHAIKH MOHAMMED YUNUS MOHAMMED JAVED,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,9.25,PASS
+1342683,SHAIKH MOHD DANISH MEHBOOB,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.68,PASS
+1342684,SHARMA NITYA AVDHESH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,9.32,PASS
+1342685,SHETE SHREYA SARASHEEJ,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.57,PASS
+1342686,SHETTY NISHANT GANESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342687,SINGH AMIT KUMAR ASHOK KUMAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.07,PASS
+1342688,SINGH ANISH UTTAM,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.82,PASS
+1342689,SINGH ASHIKA HARISH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.43,PASS
+1342690,SINGH GAURAV RAJENDRA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.5,PASS
+1342691,SINGH LAKSH SUBHASH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342692,SINGH SHREYAS CHANDRASHEKHAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.16,PASS
+1342693,SODMISE VISHAL BAPU,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.93,PASS
+1342694,SOMVANSHI YASH SHEKHAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.77,PASS
+1342695,SOR SAI MANOJ,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.27,PASS
+1342696,TALELE PARTH NITIN,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.5,PASS
+1342697,THORAT SOHAM VINAYAK,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.64,PASS
+1342698,TIWARI ANKITA BRIJESH,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.52,PASS
+1342699,TIWARI HRISHIKESH DEEPAK,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.77,PASS
+1342700,TIWARI RISHI DEVENDRA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.61,PASS
+1342701,UMARVANSHI ANUGRAH VINOD,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.02,PASS
+1342702,VARMA KIRTI KAUSHAL,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.89,PASS
+1342703,VASAVE SHRISHAT LAHENDRA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342704,VENGURLEKAR KARTIK GURUDATTA,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.2,PASS
+1342705,VIRLE RUGVED UMESH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,6.93,PASS
+1342706,VYAS MEET LALITKUMAR,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,8.16,PASS
+1342707,YADAV ARPITA RAMDAS,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342708,YADAV SRUSHTI JITENDRA,FEMALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,7.66,PASS
+1342709,YEWALE PRANAV SANTOSH,MALE,0356,Vasantdada Patil Prathisthan's College of Engineering and Visual Arts,II,0.0,FAIL
+1342919,PAWAR MRUNMAYEE DEEPAK,FEMALE,0428,Datta Meghe College of Engineering,II,0.0,FAIL
+1342929,RAWAT ARYAN VIRENDRA,MALE,0428,Datta Meghe College of Engineering,II,7.73,UNKNOWN
+1342952,TALWADKAR BHOOMI SANJAY,FEMALE,0428,Datta Meghe College of Engineering,II,0.0,FAIL
+1342963,WAGHMARE ABHINAV UMESH,MALE,0428,Datta Meghe College of Engineering,II,0.0,FAIL
+1343029,GUPTA SUHANI LAXMICHAND,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343030,HARSHAD VITHTHAL SHINDE,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343031,HERAMB VIJAY POSHIRKAR,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343032,JADHAV SAHIL RAJENDRA,MALE,0461,Shivajirao S Jondhale College of Engineering,II,6.89,PASS
+1343033,JAY JAGDISH MANDAVKAR,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343034,KAJAL SURESH SAPTE,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,8.05,PASS
+1343037,MANASHREE PRAMOD JADHAV,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343038,MAURYA AMIT ANIL,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343043,PATIL KALYANI DAULAT,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343044,PAWAR PRATIK YEDABA,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343045,RAJPUT ASMITA VILAS,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,6.86,PASS
+1343046,RISHI RAJESH BANOTA,MALE,0461,Shivajirao S Jondhale College of Engineering,II,7.57,PASS
+1343047,ROHINI NARSING KAMBLE,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343048,SAHIL SADASHIV RAUT,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343049,SANCHITA LALU KAMBLE,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343050,SARVESH FULAJI KOLI,MALE,0461,Shivajirao S Jondhale College of Engineering,II,7.27,PASS
+1343055,SINGH SHIVAM SANJAY,MALE,0461,Shivajirao S Jondhale College of Engineering,II,0.0,FAIL
+1343056,SNEHA SANTOSH SANDHYAN,FEMALE,0461,Shivajirao S Jondhale College of Engineering,II,7.2,PASS
+1343284,GHADSHI PURVA VINOD,FEMALE,0525,Finolex Academy of Management and Technology,II,8.75,PASS
+1343384,KAMBLE MANISH SANJAY,MALE,0532,Atharva Educational Trusts College of Engineering,II,0.0,FAIL
+1343443,SHARMA AANCHAL AJIT,FEMALE,0532,Atharva Educational Trusts College of Engineering,II,7.32,PASS
+1343503,MANORE YASH NARAYAN,MALE,0688,The Bombay Salesian Societys Don Bosco Institute of Technology,II,8.43,PASS
+1343524,SHETTY ANANYA PRAVIN,FEMALE,0688,The Bombay Salesian Societys Don Bosco Institute of Technology,II,0.0,FAIL
+1343535,AAYUSH GIRISH JOSHI,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343537,ABHIMANYU SANDEEP PATIL,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343552,ATHARVA SATISH THALE,MALE,0689,Excelsior Education Societys K C College of Engineering,II,6.86,PASS
+1343562,CHIRAYU RAJENDRA RAUT,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343574,DUBEY SAKSHI VINAYKUMAR,FEMALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343577,FUKE PAWAN RAJU,MALE,0689,Excelsior Education Societys K C College of Engineering,II,8.14,PASS
+1343583,HARSH SANDEEP BHUVAD,MALE,0689,Excelsior Education Societys K C College of Engineering,II,6.75,PASS
+1343587,HIROJI OM PRASHANT,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343597,KARAN ARUN LONDHE,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343598,KARTIK KRISHNA RATHOD,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343605,KRISH JANARDHAAN SHETTY,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343606,KUSHWAH AKASH SINGH ARVIND SINGH,MALE,0689,Excelsior Education Societys K C College of Engineering,II,7.43,PASS
+1343613,MANSI EKNATH SHINDE,FEMALE,0689,Excelsior Education Societys K C College of Engineering,II,5.77,PASS
+1343614,MANTHAN TANU JOGALE,MALE,0689,Excelsior Education Societys K C College of Engineering,II,8.18,PASS
+1343616,MISHRA NANDINI OMPRAKASH,FEMALE,0689,Excelsior Education Societys K C College of Engineering,II,8.45,PASS
+1343618,MOHD. ADIL RAJJAB SHAIKH,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343663,SANGALE GANESH RAMESH,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343664,SANSKAR VIJAY PATIL,MALE,0689,Excelsior Education Societys K C College of Engineering,II,0.0,FAIL
+1343769,KADAM SHARDUL DATTATRAY,MALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,0.0,FAIL
+1343798,PATEL KAVYA PINTU,FEMALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,8.57,PASS
+1343805,PATRA NIKHIL NATABAR,MALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,0.0,FAIL
+1343811,PINGLE ABHINAV ASHOK,MALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,8.91,PASS
+1343814,RACHARLA VARSHA MOHANLAL,FEMALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,8.41,PASS
+1343820,RODE RUJUL BHARGAV,MALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,0.0,FAIL
+1343831,SHETYE HRISHIKESH YOGESH,MALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,0.0,FAIL
+1343852,WAGHMARE ATHARV TUSHAR,MALE,0692,Saraswati Education Societys Saraswati College of Engineering,II,0.0,FAIL
+1344673,MD MONISH FAROOQUI,MALE,0776,Alamuri Ratnamala Institute of Engineering and Technology,II,0.0,FAIL
+1343966,PARAS CHANDRAKANT SHIGVAN,MALE,0780,Yadavrao Tasgaonkar College of Engineering and Management,II,0.0,UNKNOWN
+1344169,ADHALRAO MOHAN ANIL,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344170,ADITYA NISHAD,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344171,ADITYA PANDEY,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344172,AMJAD ALI,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344173,ARYAN SUKHBIR SINGH,MALE,0890,Shree L R Tiwari College of Engineering,II,6.45,PASS
+1344174,BAJPAYEE NAMAN SANJAY KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,8.32,PASS
+1344175,BANOWDHYA TARAKSH DINESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344176,BHABAD KARAN SUBHASH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344177,BHATT PRIYANSHI PRAKASH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344178,BIND ABHISHEK DILIPKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,7.68,PASS
+1344179,CHATURVEDI SHREYASH ANIL,MALE,0890,Shree L R Tiwari College of Engineering,II,6.14,PASS
+1344180,CHAUDHARY ANURAG RAVI SHANKAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344181,CHAUDHARY MD ZAID HYDER,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344182,CHAUHAN KARAN HARINARAYAN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344183,CHAVAN ROHAN RAVINDRA,MALE,0890,Shree L R Tiwari College of Engineering,II,6.7,PASS
+1344184,CHOTALIYA HIMANSHU PRAVIN,MALE,0890,Shree L R Tiwari College of Engineering,II,7.36,PASS
+1344185,CHOUBEY RUDRA MATA PRASAD,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344186,CHOUDHARY KAILASHKUMAR RAMESHKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344187,CHOUDHARY VEER VIVEK,MALE,0890,Shree L R Tiwari College of Engineering,II,6.82,PASS
+1344188,CHOUHAN MOHAMMED SHAKIB SARFARAZ,MALE,0890,Shree L R Tiwari College of Engineering,II,7.34,PASS
+1344189,CHUDASAMA HIREN DILIP,MALE,0890,Shree L R Tiwari College of Engineering,II,8.27,PASS
+1344190,DARBEY ABHISHEK BAIKUNTH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344191,DHANAPUNE BHUSHAN VILAS,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344192,DHANDHA JASH DEEPAK,MALE,0890,Shree L R Tiwari College of Engineering,II,8.25,PASS
+1344193,DUBEY AADITYA RAKESH KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344194,DUBEY ADARSH RAKESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344195,DUBEY DEVESH GANESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344196,DUBEY SHREYA MANOJ,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344197,GAUTAM KUMAR CHIRANJIB KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344198,GAWADE CHATURTHI DINESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344199,GHADI RUJULA JAYESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.8,PASS
+1344200,GIRI PRINCE GANESH,MALE,0890,Shree L R Tiwari College of Engineering,II,7.39,PASS
+1344201,GIRI SAHIL DILIP,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344202,GOAR NUSRAH ARIF,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.86,PASS
+1344203,GOSAIN YUTIKA NARENDRA,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.2,PASS
+1344204,GOWDA SWATI PRABHAKAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.39,PASS
+1344205,GUPTA ANSH SANTOSH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344206,GUPTA ARATI PRADEEP KUMAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.89,PASS
+1344207,GUPTA KRISHNA SUNIL,MALE,0890,Shree L R Tiwari College of Engineering,II,6.43,PASS
+1344208,GUPTA PIYUSH AMBIKAPRASAD,MALE,0890,Shree L R Tiwari College of Engineering,II,7.16,PASS
+1344209,GUPTA PRANAV JAYESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344210,GUPTA SAURABH INDRASAN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344211,GUPTA VIKAS MUKESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344212,HADKAR SARVESH SAHADEV,MALE,0890,Shree L R Tiwari College of Engineering,II,7.5,PASS
+1344213,HALDE YASH ANIL,MALE,0890,Shree L R Tiwari College of Engineering,II,6.59,PASS
+1344214,JADHAV SHRUTI PRABHAKAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344215,JAIN BANI MANISH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.93,PASS
+1344216,JAIN JIYA NITESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344217,JAISWAL ANKITA RAJESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344218,JAISWAL NIKHIL DINESHRAJ,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344219,JAISWAL SNEHA MANOJ,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344220,JAISWAR AMAN VEER ABHIMANYU,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344221,JAISWAR PALAK MUKESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344222,JHA ATUL ANAND,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344223,JHA HIMANSHU KAILASH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344224,JHA KUMAR NARESH,MALE,0890,Shree L R Tiwari College of Engineering,II,7.23,PASS
+1344225,JHA SWETA GANGESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344226,JIGISHA PRIYESH PANCHAL,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344227,KAMBLE ARYA SANDESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.34,PASS
+1344228,KANCHWALA MUSTAALI MUSTANSHIR,MALE,0890,Shree L R Tiwari College of Engineering,II,7.16,PASS
+1344229,KANOJIYA SHIVAM RAMTIRATH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344230,KHAN SAIF LAIK,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344231,KUDIDHALA ISHIT GANESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344232,KUMAWAT SONU GULABCHAND,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.3,PASS
+1344233,KURUNKAR RHUSHIKESH SANDEEP,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344234,KUSHWAHA ANUSHKA RAMNARAYAN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.82,PASS
+1344235,KUSHWAHA AYUSH RAJESH,MALE,0890,Shree L R Tiwari College of Engineering,II,6.66,PASS
+1344236,MAHATO SURAJ VIJAY,MALE,0890,Shree L R Tiwari College of Engineering,II,7.23,PASS
+1344237,MAHTO KRISH MANISH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344238,MALI PANKAJ RAMESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344239,MALIK SAHIM NAIMUDDIN,MALE,0890,Shree L R Tiwari College of Engineering,II,7.48,PASS
+1344240,MANSOORI ALTAMASH TASAWWAR HUSSAIN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344241,MAURYA KRISHNA DHARMENDRA,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344242,MAURYA PALAK DHARMENDRA,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344243,MAURYA PARI SUNIL,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344244,MEET VIKRANT MAHALE,MALE,0890,Shree L R Tiwari College of Engineering,II,6.55,PASS
+1344247,MISHRA KARTIK KAUSHLESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344248,MISHRA KRISHNA RAJESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344249,MISHRA KUNAL RAKESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344250,MISHRA PRASHANT RAMANIVAS,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344251,MISHRA SAKSHI SUNIL,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.61,PASS
+1344252,MISHRA SHWETA SATISHCHANDRA,FEMALE,0890,Shree L R Tiwari College of Engineering,II,8.41,PASS
+1344253,MISHRA SUBH KUMAR AVADHESH,MALE,0890,Shree L R Tiwari College of Engineering,II,8.39,PASS
+1344254,MISHRA VINIT VIJAYKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344255,MUJAWAR FALAKNAAZ RAFIQUE,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.07,PASS
+1344256,NARENDRA MAURYA HARSH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344257,NISHAD KARAN RAJESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344258,NISHAD SHIVAM SARNATH,MALE,0890,Shree L R Tiwari College of Engineering,II,8.16,PASS
+1344259,NITESH YADAV,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344260,OMLE SAURABH SANJAY,MALE,0890,Shree L R Tiwari College of Engineering,II,7.05,PASS
+1344261,PAL AMIT VINOD,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344262,PAL ANKITA RAMKISHUN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,6.61,PASS
+1344263,PAL NEELAM CHANDRASEKHAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344264,PANDEY AYUSH BIPIN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344265,PANDEY KRISHNA DEVENDRA,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344266,PANDEY SAMEEP BRIJESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344267,PANDYA GAJANAND LAXMIRAM,MALE,0890,Shree L R Tiwari College of Engineering,II,8.18,PASS
+1344268,PARMAR DHRUMIL CHETAN,MALE,0890,Shree L R Tiwari College of Engineering,II,7.66,PASS
+1344269,PASI GAURAV VIJAY,MALE,0890,Shree L R Tiwari College of Engineering,II,7.61,PASS
+1344270,PATEL MITHIL DILIPBHAI,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344271,PATEL MOHAMMED JAISH ZAKIR HUSSAIN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344272,PATEL REHAN HABIB,MALE,0890,Shree L R Tiwari College of Engineering,II,7.05,PASS
+1344273,PATHAK BRIJESH RAMKAILASH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344274,PATWA RAJ SUDHISH,MALE,0890,Shree L R Tiwari College of Engineering,II,7.05,PASS
+1344275,PRAJAPATI AMIT SATIRAM,MALE,0890,Shree L R Tiwari College of Engineering,II,6.18,PASS
+1344276,PRAJAPATI KRISHNA SHANKAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344277,QURESHI AFSHA MOHD IRFAN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344278,RAI SUNNY RAMKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344279,RAJAK SURAJ NANDLAL,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344280,RAJBHAR VISHWASH AJIT,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344281,SABLE ABHISHEK BHAUSAHEB,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344282,SALUNKHE YASH YOGESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344283,SAUND SANJANA KARAN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344284,SHAGUN DUTT SHARMA,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344287,SHAIKH AFSHEEN ABDUL SAMAD,FEMALE,0890,Shree L R Tiwari College of Engineering,II,8.05,PASS
+1344288,SHAIKH DANIYA BEGAM MAKSOOD MIYA,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344289,SHAIKH IQRA ABDUL KADAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344290,SHAIKH MOHAMMED ALI MAINUDDIN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344291,SHAIKH SAUD ADIL,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344292,SHARMA DHRUVA RAMPRASAD,MALE,0890,Shree L R Tiwari College of Engineering,II,7.7,PASS
+1344293,SHARMA MOHIT MANOJ,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344294,SHARMA RADHIKA SHRAVAN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344295,SHETTY KARTHIK BHASKAR,MALE,0890,Shree L R Tiwari College of Engineering,II,9.05,PASS
+1344296,SHETTY RACHANA PRADEEP,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344297,SHREYANSH KUMAR SAROJ SINHA,MALE,0890,Shree L R Tiwari College of Engineering,II,8.55,PASS
+1344298,SHUKLA ADITYA DEVMANI,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344299,SHUKLA ARJUN SUNIL KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344300,SHUKLA ARYAN ABHISHEK,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344301,SHUKLA DHRUV OMPRAKASH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344302,SIDDIQUE RUVES PARVEZ,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344303,SINGH ADARSH ANAND,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344304,SINGH ADARSH KAMLESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344305,SINGH ANURAG VINAY,MALE,0890,Shree L R Tiwari College of Engineering,II,6.18,PASS
+1344306,SINGH AYUSHEE MANOJ,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344307,SINGH DEEPTI RAMCHANDRA,FEMALE,0890,Shree L R Tiwari College of Engineering,II,8.32,PASS
+1344308,SINGH HARSH MEHENDRAPRATAP,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344309,SINGH HARSHIT NILESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344310,SINGH MAHIMA BRAHMJEET,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.55,PASS
+1344311,SINGH MANMOHAN DHANANJAY,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344312,SINGH NANDANI LAXMAN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.32,PASS
+1344313,SINGH PALAK PRAMODKUMAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,8.45,PASS
+1344314,SINGH PRERNA SUBODH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344315,SINGH RITRAJ AJIT KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344316,SINGH SIDDHARTH SUJIT,MALE,0890,Shree L R Tiwari College of Engineering,II,7.8,PASS
+1344317,SINGH SIDDHI BRIJESH KUMAR,FEMALE,0890,Shree L R Tiwari College of Engineering,II,5.84,PASS
+1344318,SINGH SIDDHI SUJEET,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344319,SINGH SUSHANK DEVENDRAKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,8.66,PASS
+1344320,SINGH SWAYAM AJAYKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344321,SOLANKI RAVINDRA KHEEMARAM,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344322,SONAVANE GAURANG UMESH,MALE,0890,Shree L R Tiwari College of Engineering,II,6.36,PASS
+1344323,SUJAL KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344324,SURTI DHRUVESH RAKESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344325,SUTHAR VISHAL PRAVEEN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344326,THAKUR MRUNAL MAHENDRA,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344327,THEVAR ESSAKKI PANDIAN MURUGAN,MALE,0890,Shree L R Tiwari College of Engineering,II,7.55,PASS
+1344328,TIWARI ARPIT AVADHESH CHANDRA,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344329,TIWARI KHUSHI AVINASH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344330,TIWARI SUBHAM SATISH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344331,TRIPATHI ANIKET VINOD,MALE,0890,Shree L R Tiwari College of Engineering,II,6.07,PASS
+1344332,TRIPATHI ANNAPURNA SAMPOORNANAND,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344333,UBALE ARYAN GAJANAN,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344334,UPADHYAY AASTHA ROSHAN,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344335,UPADHYAY PARTH VIJAY,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344336,VAISHNAVI NITIN GHARGE,FEMALE,0890,Shree L R Tiwari College of Engineering,II,5.59,PASS
+1344337,VARMA KRISH LAKHICHAND,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344338,VERMA SUJAL KRISHNAKUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,7.18,PASS
+1344339,VIRKAR VAIBHAV SANTOSH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344340,VISHWAKARMA ANJALI MANOJ,FEMALE,0890,Shree L R Tiwari College of Engineering,II,5.59,PASS
+1344341,VISHWAKARMA ASHISH MAGANLAL,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344342,VISHWAKARMA NIKHIL JEETENDRA,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344343,VISHWAKARMA RAJ BHARAT BAHADUR,MALE,0890,Shree L R Tiwari College of Engineering,II,6.98,PASS
+1344344,VISHWAKARMA ROHIT RATANLAL,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344345,VISHWAKARMA SHAGUN MITHILESH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344346,YADAV AASTHA OMPRAKASH,FEMALE,0890,Shree L R Tiwari College of Engineering,II,7.95,PASS
+1344347,YADAV ABHAY MRITUNJAY,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344348,YADAV ADARSH SHRAWAN KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,7.41,PASS
+1344349,YADAV ARYAN REJENDRAPRASAD,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344350,YADAV MINAL BACHAU,FEMALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344351,YADAV NITIN KUMAR TAHASILDAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344352,YADAV RITESH RAMASREY,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344353,YADAV SAHEJ SITARAM,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344354,YADAV SANKET RAJNEESH,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,UNKNOWN
+1344355,YADAV VISHAL LAXMISHANKAR,MALE,0890,Shree L R Tiwari College of Engineering,II,0.0,FAIL
+1344356,YADAV VISHAL RAMESH KUMAR,MALE,0890,Shree L R Tiwari College of Engineering,II,6.64,PASS
+1344357,YADAV VISHAL VINOD,MALE,0890,Shree L R Tiwari College of Engineering,II,5.77,PASS
+1344448,ALGETI TANUSHA VENUGOPAL,FEMALE,0996,A : A P Shah Institute of Technology,II,9.05,PASS
+1344449,AMBERKAR RUGVED RAGHUNATH,MALE,0996,A : A P Shah Institute of Technology,II,8.14,PASS
+1344450,AMBRE MANAV SHASHIKANT,MALE,0996,A : A P Shah Institute of Technology,II,7.82,PASS
+1344451,ASAM BHAGWAN BALRAJ,MALE,0996,A : A P Shah Institute of Technology,II,7.82,PASS
+1344454,BANKAR RITIK MADHUKAR,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344455,BARAI ANURAG GIRJESH,MALE,0996,A : A P Shah Institute of Technology,II,6.55,PASS
+1344456,BARVE SANCHIT SHREERAM,MALE,0996,A : A P Shah Institute of Technology,II,7.16,PASS
+1344457,BAUSKAR DIVYA DHARMENDRA,FEMALE,0996,A : A P Shah Institute of Technology,II,8.32,PASS
+1344458,BEHERA SAGAR SANKAR,MALE,0996,A : A P Shah Institute of Technology,II,7.77,PASS
+1344459,BELDAR HEMANGI PANKAJ,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344460,BELOSE PRERANA SANJAY,FEMALE,0996,A : A P Shah Institute of Technology,II,7.91,PASS
+1344462,BHANDARKAR NARAYANI SHIVDAS,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344463,BHANUSHALI KHUSHI SAGAR,FEMALE,0996,A : A P Shah Institute of Technology,II,8.32,PASS
+1344464,BHOGLE HARSH SURENDRA,MALE,0996,A : A P Shah Institute of Technology,II,7.32,PASS
+1344467,BHOSALE SHREYA DHANRAJ,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344469,BORKAR YASH NAVNATH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344470,CHAUDHARI MAHESH RAVINDRA,MALE,0996,A : A P Shah Institute of Technology,II,7.68,PASS
+1344471,CHAUDHARI OM SUNIL,MALE,0996,A : A P Shah Institute of Technology,II,6.61,PASS
+1344472,CHAUHAN ARUN GAUKARAN,MALE,0996,A : A P Shah Institute of Technology,II,7.16,PASS
+1344473,CHAUHAN KRISHNA VIVEKKUMAR,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344474,CHAUHAN MAYURI BALWAN,FEMALE,0996,A : A P Shah Institute of Technology,II,7.16,PASS
+1344475,CHAVAN MANSI DATTA,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,UNKNOWN
+1344476,CHAVAN YASH JAYWANT,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344477,CHOUDHARY HITESH RUPCHAND,MALE,0996,A : A P Shah Institute of Technology,II,7.45,PASS
+1344478,CHOUGHULE ARYAN THAKOJI,MALE,0996,A : A P Shah Institute of Technology,II,7.39,PASS
+1344479,DAMA KHUSHI ARVIND,FEMALE,0996,A : A P Shah Institute of Technology,II,8.52,PASS
+1344480,DEBNATH RAJ PARIMAL,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344481,DESAI ASHMIT AJAY,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344482,DEVKOTA MAMATA MANIRAM,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344483,DHOTE CHETAN VIJAY,MALE,0996,A : A P Shah Institute of Technology,II,6.98,PASS
+1344484,DORNAL ANKITA SAINATH,FEMALE,0996,A : A P Shah Institute of Technology,II,7.57,PASS
+1344485,DUBEY NIDHI CHANDRAPRAKASH,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344490,GOSAKE YASH PRAKASH,MALE,0996,A : A P Shah Institute of Technology,II,8.14,PASS
+1344491,GUDEKAR ATHARVA SHANKAR,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344492,GUPTA ADARSH DINESH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344493,GUPTA ANMOL RAJU,MALE,0996,A : A P Shah Institute of Technology,II,7.3,PASS
+1344494,GUPTA SALONEE SHITLA PRASAD,FEMALE,0996,A : A P Shah Institute of Technology,II,9.05,PASS
+1344495,GURAV PARTH GANESH,MALE,0996,A : A P Shah Institute of Technology,II,7.0,PASS
+1344498,JADHAV SAIRAJ SANTOSH,MALE,0996,A : A P Shah Institute of Technology,II,7.02,PASS
+1344499,JADHAV VINAYAK DEEPAK,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344504,JALALBISHT BHAVESH PANSINGH,MALE,0996,A : A P Shah Institute of Technology,II,7.77,PASS
+1344505,JALUI ABHIK BHIMSEN,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344506,JOSHI PARTH KARAN,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344507,KABDUGALE AAHANA SAJIT,FEMALE,0996,A : A P Shah Institute of Technology,II,8.07,PASS
+1344508,KAJARE VIHAN PRASHANT,MALE,0996,A : A P Shah Institute of Technology,II,8.14,PASS
+1344509,KALE SOHAM SANJAY,MALE,0996,A : A P Shah Institute of Technology,II,7.41,PASS
+1344510,KAMBLI RAJ CHETAN,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344511,KATRE MAHI TAMRADHWAJ,FEMALE,0996,A : A P Shah Institute of Technology,II,8.41,PASS
+1344512,KHACHANE LAVISH AKASH,MALE,0996,A : A P Shah Institute of Technology,II,8.5,PASS
+1344513,KHADAKBAN SUJAL SHYAM,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344514,KHAMKAR ATHARVA RUPESH,MALE,0996,A : A P Shah Institute of Technology,II,7.64,PASS
+1344515,KHAN AARIF INTESHAR,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344516,KHANDAGALE PARTH AMUL,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344517,KHANKURE HARSHIT MANISH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344520,KOLHE JIYA CHANDRASHEKHAR,FEMALE,0996,A : A P Shah Institute of Technology,II,8.3,PASS
+1344521,KULKARNI SIDDHI VISHWAS,FEMALE,0996,A : A P Shah Institute of Technology,II,8.3,PASS
+1344522,KUSHWAHA RAJ SUNIL,MALE,0996,A : A P Shah Institute of Technology,II,7.93,PASS
+1344523,LANJEWAR YADNYESH VISHWAS,MALE,0996,A : A P Shah Institute of Technology,II,7.16,PASS
+1344524,LONDHE SALONEE SUDHIR,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344525,MAHAKALE PRAVIN RAJENDRA,MALE,0996,A : A P Shah Institute of Technology,II,8.25,PASS
+1344526,MALEKAR SANIKA RAJENDRA,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344527,MALI VINEET SHARAD,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344532,MARATHE YUGANT NAMDEO,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344533,MARDIA MOKSH DEVICHAND,MALE,0996,A : A P Shah Institute of Technology,II,7.57,PASS
+1344534,MHATRE SHUBHAM RAKESH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344535,MHATRE SONU KAVIDAS,FEMALE,0996,A : A P Shah Institute of Technology,II,6.77,PASS
+1344536,MISHRA ADITYA KUMAR RAVI KUMAR,MALE,0996,A : A P Shah Institute of Technology,II,8.09,PASS
+1344537,MOHAPATRA BISHNUPRIYA PRASANNA,FEMALE,0996,A : A P Shah Institute of Technology,II,9.02,PASS
+1344538,MOMIN MOHAMMED ALI NIYAZ,MALE,0996,A : A P Shah Institute of Technology,II,7.59,PASS
+1344539,MOMIN MOHAMMED SADIQUE SAJID,MALE,0996,A : A P Shah Institute of Technology,II,6.64,PASS
+1344540,MORE DRISHTI PRAMOD,FEMALE,0996,A : A P Shah Institute of Technology,II,8.95,PASS
+1344541,MUKADAM KRRISH PRAVIN,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344542,MUQADAM AYYAN IQBAL,MALE,0996,A : A P Shah Institute of Technology,II,8.91,PASS
+1344543,MURARKAR ANUSHKA RAJIV,FEMALE,0996,A : A P Shah Institute of Technology,II,6.8,PASS
+1344546,NAIDU SIDDHESH SHANKAR,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344547,NAIK KAUSHIK GURUDAS,MALE,0996,A : A P Shah Institute of Technology,II,7.25,PASS
+1344548,NAIK PRAJWAL GOPAL,MALE,0996,A : A P Shah Institute of Technology,II,7.75,PASS
+1344549,NIKAM OMKAR SAMADHAN,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344550,NIKAM PRANAV SURESH,MALE,0996,A : A P Shah Institute of Technology,II,7.68,PASS
+1344551,PALANKAR SAKSHI NAGARAJ,FEMALE,0996,A : A P Shah Institute of Technology,II,8.61,PASS
+1344552,PANDA SHRIKANT TRINATH,MALE,0996,A : A P Shah Institute of Technology,II,8.23,PASS
+1344553,PANDEY ANKITA RAMANUJ,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344554,PANDEY SHIVAM HARISHANKAR,MALE,0996,A : A P Shah Institute of Technology,II,7.95,PASS
+1344555,PANDEY SMITA PREMCHAND,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344556,PANDEY SNEHA LALBAHADUR,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344557,PANDEY YASH SUJIT,MALE,0996,A : A P Shah Institute of Technology,II,7.91,PASS
+1344558,PANGLE NITESH PRABHAKAR,MALE,0996,A : A P Shah Institute of Technology,II,8.73,PASS
+1344559,PANIGRAHY SANCHITA SHIVSHANKAR,FEMALE,0996,A : A P Shah Institute of Technology,II,8.09,PASS
+1344560,PARAB PRAJWAL PRAKASH,MALE,0996,A : A P Shah Institute of Technology,II,7.68,PASS
+1344561,PARAB TANAJI KRISHNA,MALE,0996,A : A P Shah Institute of Technology,II,8.66,PASS
+1344562,PARAKH JIYA NILESH,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344563,PAREEK ADITI VINODKUMAR,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344564,PATHAK HARSH RAKESH,MALE,0996,A : A P Shah Institute of Technology,II,6.09,PASS
+1344565,PATHARE PREM PRASHANT,MALE,0996,A : A P Shah Institute of Technology,II,6.82,PASS
+1344572,PAWAR ROHAN SAMBHAJI,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344575,PEDNEKAR VAISHNAVI SANTOSH,FEMALE,0996,A : A P Shah Institute of Technology,II,8.14,PASS
+1344576,POOJARI RAKSHA RAGHURAM,FEMALE,0996,A : A P Shah Institute of Technology,II,7.91,PASS
+1344577,PORIYA DHANASHREE JAGDISH,FEMALE,0996,A : A P Shah Institute of Technology,II,9.0,PASS
+1344578,POTDAR RAJ MANGESH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344579,PRAJAPATI ROHITKUMAR HORILAL,MALE,0996,A : A P Shah Institute of Technology,II,8.77,PASS
+1344586,ROWLO SHRUTI NARESHKUMAR,FEMALE,0996,A : A P Shah Institute of Technology,II,8.0,PASS
+1344587,RUKKEPUJARI HARDIK HANMANT,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344591,SALVE DIKSHA MANOJ,FEMALE,0996,A : A P Shah Institute of Technology,II,7.43,PASS
+1344593,SARODE NILAY UMESH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344599,SHARMA KRISHNA MAHESH,MALE,0996,A : A P Shah Institute of Technology,II,6.05,PASS
+1344600,SHETYE AMEY SUJIT,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344602,SHINDE RAJ AMOL,MALE,0996,A : A P Shah Institute of Technology,II,6.48,PASS
+1344603,SHINDE VAISHNAVI SANTOSH,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344604,SHRIPAT KRRISH NITIN,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344605,SHRIVASTAV VIRAJ SANJEEV,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344607,SIDDIQUI INSHRAH MOIN,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344608,SIDDIQUI MOHAMMAD ZAHID ZAHEERUDDIN,MALE,0996,A : A P Shah Institute of Technology,II,7.32,PASS
+1344609,SIDDIQUI SANA MOHAMMAD SHAFI,FEMALE,0996,A : A P Shah Institute of Technology,II,8.66,PASS
+1344610,SINGH ADITYA VISHWAMITRA,MALE,0996,A : A P Shah Institute of Technology,II,8.16,PASS
+1344611,SINGH PIYUSH RAMESH,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344612,SINGH SHARMAN SANDEEP,MALE,0996,A : A P Shah Institute of Technology,II,8.55,PASS
+1344613,SOLANKI MAHIPALSINGH DALPATSINGH,MALE,0996,A : A P Shah Institute of Technology,II,9.36,PASS
+1344614,SONAWANE MAYURESH DILIP,MALE,0996,A : A P Shah Institute of Technology,II,8.61,PASS
+1344615,SURVE VEDANT UDAY,MALE,0996,A : A P Shah Institute of Technology,II,8.52,PASS
+1344616,TAMBE SANCHITA VISHAL,FEMALE,0996,A : A P Shah Institute of Technology,II,7.18,PASS
+1344617,TAWDE SOHAM MILIND,MALE,0996,A : A P Shah Institute of Technology,II,8.07,PASS
+1344618,TEMBHARE MANISH PACHENDRAKUMAR,MALE,0996,A : A P Shah Institute of Technology,II,8.07,PASS
+1344619,TEMBHE AYUSH SANJAY,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344620,THAKARE PARTH SURESH,MALE,0996,A : A P Shah Institute of Technology,II,7.98,PASS
+1344621,THAKKAR VISHWA HITESH,MALE,0996,A : A P Shah Institute of Technology,II,7.82,PASS
+1344622,THAPA LAKSH RITESH,MALE,0996,A : A P Shah Institute of Technology,II,7.52,PASS
+1344623,TIWARI ANUBHAV ROOPESH KUMAR,MALE,0996,A : A P Shah Institute of Technology,II,7.75,PASS
+1344624,UKARDE JAY PRADEEP,MALE,0996,A : A P Shah Institute of Technology,II,8.0,PASS
+1344625,VANJARE KANKSHA SHEKHAR,FEMALE,0996,A : A P Shah Institute of Technology,II,8.11,PASS
+1344626,VARMA BHAVYA SANJEEV,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344627,VEER PREETI BHALCHANDRA,FEMALE,0996,A : A P Shah Institute of Technology,II,8.34,PASS
+1344628,VETHEKAR SHARVARI SACHIN,FEMALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344629,VISHWAKARMA PRIYANSHU MANOJ,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344630,VISPUTE RITESH NITIN,MALE,0996,A : A P Shah Institute of Technology,II,7.14,PASS
+1344631,WARATKAR PRAJWAL RAVINDRA,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344632,YADAV ANURAG VINAY,MALE,0996,A : A P Shah Institute of Technology,II,7.07,PASS
+1344634,YADAV VIVEK RAVISHANKAR,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL
+1344635,YELIGETI NIHAL KRISHNA,MALE,0996,A : A P Shah Institute of Technology,II,0.0,FAIL

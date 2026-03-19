@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Upload Result</title>
+<style>
+body {
+  font-family: Arial;
+  background: #f4f6fb;
+  padding: 40px;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+label { font-weight: bold; display: block; margin-top: 15px; }
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+button {
+  width: 100%;
+  padding: 12px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+button:hover { background: #43a047; }
+.hint {
+  font-size: 12px;
+  color: #888;
+  margin-top: 4px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <h2>Upload MU Result PDF</h2>
+  <form method="POST" enctype="multipart/form-data">
+
+    <label>Select Result PDF</label>
+    <input type="file" name="pdf" accept=".pdf" required>
+
+    <label>Semester</label>
+    <select name="semester">
+      <option value="1">Sem I</option>
+      <option value="2">Sem II</option>
+      <option value="3">Sem III</option>
+      <option value="4">Sem IV</option>
+      <option value="5">Sem V</option>
+      <option value="6">Sem VI</option>
+      <option value="7">Sem VII</option>
+      <option value="8">Sem VIII</option>
+    </select>
+
+    <label>College Code <span style="font-weight:normal">(optional)</span></label>
+    <input type="text" name="college_code" placeholder="e.g. 0010">
+    <p class="hint">Leave blank to fetch ALL colleges. Enter a code like 0010 to filter one college.</p>
+
+    <button type="submit">Upload &amp; Convert</button>
+  </form>
+</div>
+</body>
+</html>
