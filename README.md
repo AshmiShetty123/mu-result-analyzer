@@ -3,7 +3,7 @@ Developed a Flask-based web application to extract and analyze Mumbai University
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload MU result PDF
 - Automatic extraction of:
@@ -20,7 +20,7 @@ Developed a Flask-based web application to extract and analyze Mumbai University
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Flask (Python)
 - **Frontend:** HTML, CSS
@@ -46,7 +46,7 @@ project/
 
 ----
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository
 
@@ -67,7 +67,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📊 Key Functionalities
+## Key Functionalities
 
 - Parses unstructured MU PDF results into structured CSV
 - Detects PASS/FAIL using grading patterns (P/F)
@@ -83,7 +83,7 @@ Please do not copy it directly for submissions.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Login authentication using database
 - Advanced filters (semester, college)
@@ -92,6 +92,6 @@ Please do not copy it directly for submissions.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Asmhi Shetty
