@@ -95,4 +95,4 @@ Please do not copy it directly for submissions.
 
 ## Author
 
-Asmhi Shetty
+Ashmi Shetty
