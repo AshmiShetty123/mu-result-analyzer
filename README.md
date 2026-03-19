@@ -31,19 +31,20 @@ Developed a Flask-based web application to extract and analyze Mumbai University
 ---
 
 ## Project Structure
+```
 project/
 │── app.py
 │── mu_parser.py
 │── templates/
-│ ├── login.html
-│ ├── register.html
-│ ├── upload.html
-│ ├── dashboard.html
-│ ├── statistics.html
+│   ├── login.html
+│   ├── register.html
+│   ├── upload.html
+│   ├── dashboard.html
+│   ├── statistics.html
 │── uploads/
 │── outputs/
 │── users.csv
-
+```
 ----
 
 ## How to Run
